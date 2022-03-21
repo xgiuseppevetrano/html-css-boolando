@@ -18,6 +18,10 @@
     clear: both;
 }
 
+body {
+    font-family: 'Roboto', sans-serif; 
+}
+
 /* FIRST ROW */
 .col {
     float: left;
@@ -94,4 +98,10 @@
 
 .product:hover .img-2 {
     display: block;
+}
+
+/* SECOND ROW */
+.second-row {
+    margin-top: 80px;
+    margin-bottom: 70px;
 }
